@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>R-055.kml</name>
+	<visibility>0</visibility>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<StyleMap id="m_ylw-pushpin1410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0390</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1420</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin146">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin043</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl148</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-stars28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-stars24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-stars27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1107">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1540</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0540</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1108">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin158</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin058</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0390">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin043">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1420">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl148">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-stars27">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0540">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin058">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_wht-stars24">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1540">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin158">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>R-055</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>39.15716125562672</longitude>
+			<latitude>-6.825367043441461</latitude>
+			<altitude>0</altitude>
+			<heading>0.0005182082079440396</heading>
+			<tilt>0</tilt>
+			<range>2338.086406546112</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin1108</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>39.15646477578908,-6.825399462376788,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>R-055</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_ylw-pushpin1107</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						39.15380115813876,-6.825507883572696,0 39.15370199205977,-6.825711421546386,0 39.15349868503091,-6.826344128798815,0 39.1533738998143,-6.826702009849972,0 39.15383514793091,-6.82679571454172,0 39.15408605019996,-6.826871683996116,0 39.15432468977966,-6.827048186072671,0 39.15520375292493,-6.827182695936667,0 39.15562721919352,-6.82716842150051,0 39.15577633268433,-6.82713400716962,0 39.15587670642402,-6.827113127220002,0 39.15599301067081,-6.827084224182832,0 39.15605954670679,-6.827079224462661,0 39.15611205646735,-6.827232378464998,0 39.15612611907299,-6.827302778522135,0 39.15623749875311,-6.827531492738095,0 39.15629811671168,-6.827613184291374,0 39.15633972779736,-6.827702962891695,0 39.15645145686152,-6.827791870571868,0 39.15650890568892,-6.82783629550141,0 39.15667060972324,-6.827977086816945,0 39.15679905522139,-6.828046091746516,0 39.15687760127813,-6.828091862301217,0 39.15695051833005,-6.828139012909957,0 39.15704470311986,-6.828177377286786,0 39.15708688526719,-6.828167068751462,0 39.15722127845317,-6.827980127839138,0 39.15730378856411,-6.827792225347427,0 39.15737046986406,-6.827510150001437,0 39.15744949765569,-6.827255550434979,0 39.15755540312956,-6.826991143362792,0 39.15771656813654,-6.82671708395896,0 39.15785911372497,-6.82652191825776,0 39.15797858309936,-6.826318379570187,0 39.15804374505178,-6.826276370141886,0 39.1581604583538,-6.82634620861534,0 39.1582733892157,-6.826394748141295,0 39.15840114013638,-6.826448042875075,0 39.15843703877859,-6.826488066282803,0 39.15848302479924,-6.826498168011043,0 39.15853507226319,-6.826415141348138,0 39.15867897380758,-6.826181751405033,0 39.1587626269522,-6.826045458175846,0 39.15871679884374,-6.82583800069979,0 39.1585588582999,-6.825571289410399,0 39.15840158528908,-6.825451851690362,0 39.15835321139541,-6.825343901418284,0 39.15834016917616,-6.825192773013746,0 39.15841291111018,-6.825078856548537,0 39.15852699652865,-6.82501172351682,0 39.15864436769604,-6.824959870851245,0 39.15902727281633,-6.824877262826999,0 39.15936157392946,-6.824798823668092,0 39.15952066338823,-6.824751338906994,0 39.1595925889652,-6.824635252902655,0 39.15961677513465,-6.824567482616236,0 39.15956900390908,-6.824555304982337,0 39.15940299742705,-6.82455813976987,0 39.15923672432133,-6.824569351896563,0 39.15907386727778,-6.82458654860742,0 39.158995688088,-6.82461713563773,0 39.15862515762245,-6.82449615647519,0 39.15842424179277,-6.824316325296443,0 39.15828098214147,-6.824196246906893,0 39.1581031159774,-6.823910876345884,0 39.15803042625063,-6.823674902104075,0 39.15803885555425,-6.823511542757173,0 39.15807517353969,-6.823384497807875,0 39.15812815258502,-6.823282536672974,0 39.15818372192739,-6.823123493391217,0 39.15817346846774,-6.823065246476851,0 39.15806219832027,-6.822994220803672,0 39.15787614637429,-6.82300880032999,0 39.15773851815846,-6.823037822395337,0 39.1575599255478,-6.823036315839483,0 39.15727281179736,-6.823068206788294,0 39.15655848047335,-6.823286352050631,0 39.1560517967737,-6.823581564631596,0 39.15574127604706,-6.823780946240829,0 39.15555516156955,-6.8238831801187,0 39.15531565521001,-6.824100254558673,0 39.15510831453238,-6.824252542525691,0 39.15488124820362,-6.824475283389646,0 39.15464395694592,-6.824641373604346,0 39.15443012322994,-6.82472207897026,0 39.15417568026063,-6.824877843678158,0 39.15404625911777,-6.825028329578508,0 39.15391250211637,-6.825251449248494,0 39.15392958779854,-6.825418658277409,0 39.15380115813876,-6.825507883572696,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>No.80</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<styleUrl>#m_ylw-pushpin146</styleUrl>
+		<Point>
+			<coordinates>39.15735315531492,-6.82816514129112,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Kanisa</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<styleUrl>#m_ylw-pushpin146</styleUrl>
+		<Point>
+			<coordinates>39.1567412763834,-6.827928783599562,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Mt.kafula</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<styleUrl>#m_ylw-pushpin146</styleUrl>
+		<Point>
+			<coordinates>39.15563989430666,-6.823743568635812,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Pamoja school</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<styleUrl>#m_ylw-pushpin146</styleUrl>
+		<Point>
+			<coordinates>39.15723849087954,-6.823355072836068,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>KANADA</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<styleUrl>#msn_wht-stars28</styleUrl>
+		<Point>
+			<coordinates>39.15380090475082,-6.82543170739169,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>14</name>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin1410</styleUrl>
+		<Point>
+			<coordinates>39.15866877883673,-6.826056227339685,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Kanisa</name>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin1410</styleUrl>
+		<Point>
+			<coordinates>39.15358129888773,-6.826648788157439,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Br.pamoja</name>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin1410</styleUrl>
+		<Point>
+			<coordinates>39.15776252746582,-6.822954259358418,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Njia ya mto mdogo</name>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin1410</styleUrl>
+		<Point>
+			<coordinates>39.15887665003538,-6.824554848051232,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#00000000</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+</Document>
+</kml>
