@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>R-100.kml</name>
+	<visibility>0</visibility>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_D003">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D401</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_D22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_cabs23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cabs02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cabs02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_dining1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_dining0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_dining0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station701">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_realestate111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_realestate50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_realestate700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_realestate201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_realestate400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_realestate500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_realestate601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_realestate2000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_realestate600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1197">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin110000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin010000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1198">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1107</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0107</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl02">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D001">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D401">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M00">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M3">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cabs02">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_dining0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station400">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station9">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_realestate500">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_realestate600">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_realestate700">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin010000">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0107">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_D03">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_D41">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M200">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cabs02">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_dining0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station200">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station90">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_realestate2000">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_realestate400">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_realestate50">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin110000">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1107">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>54ff5500</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>R-100</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>39.12843698205716</longitude>
+			<latitude>-6.826076800764532</latitude>
+			<altitude>0</altitude>
+			<heading>0.004294100032336949</heading>
+			<tilt>0</tilt>
+			<range>6606.567031649479</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin1198</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>39.12752754642833,-6.831986811654387,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>R-100</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_ylw-pushpin1197</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						39.12211972901852,-6.83073551929702,0 39.12243219202243,-6.830690585540832,0 39.12254961317689,-6.830783893756388,0 39.12275255968079,-6.83105482657451,0 39.12291647433467,-6.831223329590967,0 39.12319879557579,-6.831305334228293,0 39.12366276742893,-6.831199278142405,0 39.12402745461684,-6.831106831075726,0 39.12417436506564,-6.831282228217185,0 39.1242391600727,-6.83174750276742,0 39.12420370885482,-6.831982123696439,0 39.12459663465184,-6.83224895812498,0 39.12470153719887,-6.832621647075601,0 39.12468233578245,-6.832810480700205,0 39.12496277003942,-6.833092347288709,0 39.12528273393195,-6.833090897014287,0 39.12556259911208,-6.833277421217021,0 39.12574057084049,-6.833458851872451,0 39.12590810229576,-6.833649581176845,0 39.12606352057209,-6.83396495079211,0 39.12617301808041,-6.834024209926537,0 39.12641515598823,-6.833889930902036,0 39.1266492443882,-6.833627818949839,0 39.12683828141637,-6.833755803615778,0 39.1269415779975,-6.834034640267191,0 39.12715166481034,-6.83433807889319,0 39.12755640073024,-6.834474807007407,0 39.12779860970974,-6.834531202134539,0 39.12807449314577,-6.834664248757177,0 39.12824602264212,-6.834591880580379,0 39.12827123370875,-6.834591370448165,0 39.12861369092973,-6.834144672774666,0 39.12884085740397,-6.834032072643259,0 39.12904406733036,-6.834036151937745,0 39.12917210561539,-6.834223597976054,0 39.12936459318669,-6.834207038163301,0 39.12955690048349,-6.834008302116854,0 39.12957614534444,-6.833995395025143,0 39.12990470352216,-6.833514917778259,0 39.13017942025659,-6.833207490273317,0 39.13037936709078,-6.833033251419605,0 39.13063172721038,-6.8330300443851,0 39.13088711744939,-6.833030072417858,0 39.13099129258625,-6.83268917398437,0 39.1312111819379,-6.832345940156659,0 39.13132230835576,-6.832390606516744,0 39.13159223024109,-6.832358627941715,0 39.13186493718042,-6.832140581858959,0 39.13196002146069,-6.831795520591011,0 39.13197079433556,-6.831541563718292,0 39.13214736506838,-6.831226474166232,0 39.13216278443592,-6.831027848239123,0 39.13210306491935,-6.830828803201022,0 39.13186281342187,-6.83034355957991,0 39.13167913795395,-6.830358523022322,0 39.13140002884037,-6.8302859440312,0 39.13109873623873,-6.830163931118815,0 39.1308575004993,-6.83009314074538,0 39.1307301410646,-6.830055789615954,0 39.13057452028886,-6.830015097442825,0 39.1304970959367,-6.829947486686136,0 39.13040122764536,-6.829902523257675,0 39.1303520199577,-6.829870023348781,0 39.13029838758733,-6.829886200416362,0 39.13025760694465,-6.829952552021105,0 39.13018141085345,-6.829995703101258,0 39.130086314834,-6.830073376494067,0 39.12996714227548,-6.830103735005325,0 39.12978051793581,-6.830180674636074,0 39.12967617338158,-6.830200360065279,0 39.12949771182464,-6.830246277491817,0 39.12938072728249,-6.830266776959946,0 39.12930159703549,-6.830268618897377,0 39.12924230006538,-6.830257073118915,0 39.12915342384374,-6.830179341067753,0 39.1291000648885,-6.830142601861682,0 39.12892924846148,-6.830033195088302,0 39.12873534098355,-6.829907806586769,0 39.12859083046403,-6.829841442327855,0 39.12846530917815,-6.829793183610191,0 39.12833074783186,-6.829766155495449,0 39.12821700723379,-6.829763016277424,0 39.12814617301851,-6.829747734519687,0 39.12807952631589,-6.829752739492554,0 39.12792410972784,-6.829754842580302,0 39.12770408564042,-6.82974928851383,0 39.127504192928,-6.82975750972841,0 39.12737197172182,-6.829749358587344,0 39.12719304941449,-6.829750947961217,0 39.12709747553528,-6.829720227703543,0 39.12703741526208,-6.829720855453161,0 39.12700825578581,-6.82972271686252,0 39.12698450394294,-6.829787948172283,0 39.12688529684598,-6.829915792370084,0 39.12670359946945,-6.829981819941316,0 39.12635217455361,-6.830015223422206,0 39.12599367407179,-6.830028513155431,0 39.12536110821319,-6.830025474732365,0 39.12506141742009,-6.829997176974286,0 39.12473797512534,-6.829827452751955,0 39.12454481264955,-6.829639624257354,0 39.12424566551355,-6.829414411053674,0 39.12389540973027,-6.829329626414498,0 39.12357071980017,-6.829223673315137,0 39.12327792224482,-6.829131007575691,0 39.12298991174432,-6.829072214911401,0 39.12291245281828,-6.829083086529987,0 39.12280543394758,-6.829051401652042,0 39.12274182640179,-6.829017827343029,0 39.12261188498622,-6.828927864339406,0 39.12252376031716,-6.828827318979079,0 39.12240528334291,-6.828729054055697,0 39.12226211552149,-6.828685729435648,0 39.1220279928885,-6.828647388683897,0 39.12197402826504,-6.828679560468792,0 39.12195601466039,-6.828718745517286,0 39.12198839183397,-6.828772297768802,0 39.12201709778201,-6.828968347520262,0 39.12199176478001,-6.829968406987043,0 39.121911664054,-6.830695761866296,0 39.12211972901852,-6.83073551929702,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Hijra day care</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_ranger_station200</styleUrl>
+		<Point>
+			<coordinates>39.12558138370514,-6.830114255549542,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Kibao st Lucia day care</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_realestate111</styleUrl>
+		<Point>
+			<coordinates>39.12701703608036,-6.82969646998516,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>ST.LUCIA DAYCARE</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_ranger_station701</styleUrl>
+		<Point>
+			<coordinates>39.12953550622983,-6.830114270380806,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MTO</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_D22</styleUrl>
+		<Point>
+			<coordinates>39.1303788732141,-6.829817457418613,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ff000000</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MTONI</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_M001</styleUrl>
+		<Point>
+			<coordinates>39.13182181622585,-6.83024724485989,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffffffff</textColor>
+<bgColor>#ff434343</bgColor>
+<outlinecolor>#ff000000</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MTONI</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_M30</styleUrl>
+		<Point>
+			<coordinates>39.13086703778291,-6.832935077661642,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffffffff</textColor>
+<bgColor>#ff434343</bgColor>
+<outlinecolor>#ff000000</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MTONI</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_M30</styleUrl>
+		<Point>
+			<coordinates>39.12796512992591,-6.834584970204882,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffffffff</textColor>
+<bgColor>#ff434343</bgColor>
+<outlinecolor>#ff000000</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MTO</name>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin01</styleUrl>
+		<Point>
+			<coordinates>39.12424832582474,-6.832077676366506,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MT MYAMWEZI</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_realestate201</styleUrl>
+		<Point>
+			<coordinates>39.12477570883636,-6.829973716235553,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>MT MVOMERO</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_realestate601</styleUrl>
+		<Point>
+			<coordinates>39.12356067448854,-6.829139865861626,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>Lacatas fast food</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_dining1</styleUrl>
+		<Point>
+			<coordinates>39.12208747118711,-6.828581596601597,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>KWA UNJU (KITUO)</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_cabs23</styleUrl>
+		<Point>
+			<coordinates>39.12179108709097,-6.828135846259636,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffac2b16</textColor>
+<bgColor>#0</bgColor>
+<outlinecolor>#ffffffff</outlinecolor>
+<bold>true</bold>
+</Tag>
+	</Placemark>
+	<Placemark>
+		<name>DARAJANI</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_D003</styleUrl>
+		<Point>
+			<coordinates>39.12184369232032,-6.830832878633426,0</coordinates>
+		</Point>
+		<Tag>
+<UseImage>0</UseImage>
+<AlwaysVisible>1</AlwaysVisible>
+<textColor>#ffffffff</textColor>
+<bgColor>#ff434343</bgColor>
+<outlinecolor>#ff000000</outlinecolor>
+<bold>false</bold>
+</Tag>
+	</Placemark>
+</Document>
+</kml>
